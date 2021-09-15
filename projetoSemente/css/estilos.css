@@ -1,0 +1,98 @@
+﻿body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #023567;
+    font-weight: 400;
+}
+.alertaErro {
+    color:#d30d0d;
+}
+
+
+#menu ul {
+    position:absolute;
+    top:80px;
+    margin-left:520px;
+    background-color:transparent;
+    list-style:none;
+    left: 70px;
+}
+
+#menu ul li { display: inline; }
+
+#menu ul li a {
+    padding: 10px 20px;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+
+#menu ul li a:hover {
+    background-color:transparent;
+    color: #808080;
+    border-bottom:3px solid;
+}
+
+#imgfundo
+{
+background:url(../images/fufundo.jpg);
+height:250px;
+
+}
+
+#logo {
+position:absolute;
+left:440px;
+top:35px;
+width:150px;
+
+}
+
+.contrate {
+width:70%;
+margin-left:240px;
+}
+
+
+h1 {
+margin-left:120px;
+}
+
+table 
+{
+    width:80%;
+    margin-left:120px;
+}
+
+footer {
+margin-top:30px;
+text-align:center;
+background-color:black;
+color:white;
+height:200px;
+}
+
+footer p
+{
+    position:relative;
+    top:80px;
+
+}
+/* SOBRE */
+
+.sobre {
+
+    width: 500px;
+}
+
+/* TRABALHE CONOSCO */
+#sub {
+margin-left:200px;
+
+}
+
+/*COMO CHEGAR*/
+iframe {
+margin-left:120px;
+}
